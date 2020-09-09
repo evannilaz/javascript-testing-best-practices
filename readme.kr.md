@@ -2,29 +2,28 @@
 
 <br/>
 
-# 👇 이 가이드가 당신의 테스트 기술을 한 단계 끌어 올리는 이유
+# 👇 이 가이드가 당신의 자바스크립트 기술을 한 단계 끌어 올리는 이유
 
 <br/>
 
-## 📗 철저하고 매우 포괄적인 45가지 이상의 모범 사례
-JavaScript 및 Node.js에 대한 A부터 Z까지의 믿음직한 가이드입니다. 수십 가지 최고의 블로그 게시물, 서적 및 도구를 요약하고 정리합니다.
+## 📗 철저하고 포괄적인 45가지의 예제들
+수십개의 블로그와 서적의 자료들을 요약하고 정리한 JavaScript와 Node.js에 관해 머리부터 발끝까지 다루고 있는 믿음직한 가이드입니다.
 
-## 🚢 기초를 뛰어넘어 고급으로
-운영중인 제품의 테스트, 돌연변이 테스트, 속성 기반 테스트 및 기타 여러 전략적 & 전문 도구와 같은 고급 주제로 넘어가는 여정을 경험하십시오.
-이 가이드의 모든 단어를 읽으면 당신의 테스트 기술이 평균보다 높아질 수 있습니다.
+## 🚢 기초를 넘어 고급으로
+운영 중인 제품과 예기치 못한 에러에 대한 예제와 여러 전략적이고 전문 도구와 같은 고급 주제를 익힘으로서 한 층 더 높은 곳으로 넘어가는 여정을 함께 떠나봅시다. 이 가이드의 모든 내용을 익힌다면 당신의 실력이 이전보다 높아질 수 있습니다.
 
-## 🌐 Full-stack: 프론트, 백엔드, CI, 무엇이든
-모든 응용프로그램 계층의 기초가 되는 유비쿼터스 테스트 방법을 이해하는 것으로부터 시작하십시오. 그런 다음 프론트엔드/UI, 백엔드, CI 혹은 이 모든것을 공부하세요.
+## 🌐 Full-stack: 프론트엔드, 백엔드, CI, 그 어떤 것이던!
+모든 프로그래밍 언어의 계층의 기초가 되는 유비쿼터스 테스트 방법을 이해하는 것으로부터 시작하세요. 그리고 프론트엔드와 UI, 백엔드, CI를 하나씩 차차 배워가세요!
 
 <br/>
 
 ### Yoni Goldberg 작성
 
 * JavaScript & Node.js 컨설턴트
-* 👨‍🏫 [나의 테스팅 워크샵](https://www.testjavascript.com) -  유럽과 미국에서의 [제 워크샵](https://www.testjavascript.com)에 대해서 알아보십시오.
-* [트위터 팔로우 하기](https://twitter.com/goldbergyoni/)
-* [LA](https://js.la/), [베로나](https://2019.nodejsday.it/), [하르키우](https://kharkivjs.org/), [무료 웨비나](https://zoom.us/webinar/register/1015657064375/WN_Lzvnuv4oQJOYey2jXNqX6A)를 들으러 오십시오. 향후 이벤트는 곧 결정될 것입니다.
-* [저의 JavaScript 뉴스 레터](https://testjavascript.com/newsletter/) - 인사이트와 오직 전략적인 문제에 대한 내용
+* 👨‍🏫 [테스팅 워크샵](https://www.testjavascript.com) -  유럽과 미국에서의 [워크샵](https://www.testjavascript.com)에 대해 알아보세요.
+* [트위터 팔로우하기](https://twitter.com/goldbergyoni/)
+* [LA](https://js.la/), [Veronese](https://2019.nodejsday.it/), [KharkivJS](https://kharkivjs.org/), [Webinar](https://zoom.us/webinar/register/1015657064375/WN_Lzvnuv4oQJOYey2jXNqX6A)를 들으러 오세요.
+* [JavaScript 뉴스레터](https://testjavascript.com/newsletter/) - 인사이트와 오직 전략적인 문제에 대한 내용
 
 <br/><br/>
 
